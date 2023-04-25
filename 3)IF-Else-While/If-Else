@@ -1,0 +1,26 @@
+#güvenlik girişi yapalım
+#basit düzeyde
+
+print('merhaba ben akıllı asistanın') #ekrana yazdırmak için bu kodu yazdım
+print('sana yardımcı olabilmem için ismini gir')
+
+isim = input() # girdi aldım
+print(' '*10) #10 tane boşluk bıraktım
+print('merhaba ' + ' ' +isim + ' hoş geldin hesaba girmek için şifreni gir')
+#' ' bunlar boşluk bırakmak için   + ise birleştirmek için
+
+sifre = input() #sifre girişi aldım
+
+if sifre == 'besat':  #şifreyi besat olarak verdim kullanıcı besat girerse eğer ekrana alttaki yazıyı yazdırcak
+
+    print('hesaba giriş onaylandı') # 4 boşluk diğer kodlardaki süslü parantez oalrak düşünün
+    
+
+
+
+
+else:
+    print('hatalı şifre')
+
+    #yani dedimki eğer girilen şifre besat ile uyumlu değilse ekrana bu yaszsın.
+
