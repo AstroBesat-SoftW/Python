@@ -8,7 +8,7 @@ The code consists of the following steps: We take the text from the image as sho
 divide it into 10 parts, each comprising 10% of the text, then we repeat and finally take the last 30% of the text. We then combine the text we have segmented from everywhere, resulting in a nice output that summarizes the text, whether meaningful or not. With love, I am Besat Çıngar.
 
 <br>
-![image](https://github.com/AstroBesat-SoftW/Python/assets/128177174/78cea4ad-4197-492a-8f74-99618c91c83f)
+![image](https://github.com/AstroBesat-SoftW/Python/assets/128177174/72e406c3-eabb-40ca-911d-53ce9d7df46b)
 
 
 ![image](https://github.com/AstroBesat-SoftW/Python/assets/128177174/8565bf85-9acb-4886-8e4e-232fd67ee826)
