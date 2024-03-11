@@ -6,4 +6,3 @@ yolov3_last.weights   (indir)
 
 link:  https://drive.google.com/file/d/1zJUsTDvPsfG0lcncDs4-raMMeR4H0yXN/view?usp=sharing 
 <button> https://drive.google.com/file/d/1zJUsTDvPsfG0lcncDs4-raMMeR4H0yXN/view?usp=sharing </button>
-<a href="https://drive.google.com/file/d/1zJUsTDvPsfG0lcncDs4-raMMeR4H0yXN/view?usp=sharing"> Drive indir </a>
