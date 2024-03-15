@@ -1,5 +1,5 @@
 <h1>Python'da OpenCV kullanarak Nesne Algılama</h1>
-<p># Bu Orijinal versiyonu değil Demo versiyonudur, hata payı vardır ve geliştirilmeye açıktır. O yüzden amaç eğitim içindir ve resmi yerlerde kullanmayınız.</p>
+<strong><p>NOT: Bu Orijinal versiyonu değil Demo versiyonudur, hata payı vardır ve geliştirilmeye açıktır. O yüzden amaç eğitim içindir ve resmi yerlerde kullanmayınız.</p></strong>
 <br><hr>
 <h1>OpenCV nedir?</h1>
 <br>
