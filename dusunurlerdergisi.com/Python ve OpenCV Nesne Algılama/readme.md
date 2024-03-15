@@ -1,3 +1,6 @@
+<h1>Python'da OpenCV kullanarak Nesne Algılama</h1>
+<p># Bu Orijinal versiyonu değil Demo versiyonudur, hata payı vardır ve geliştirilmeye açıktır. O yüzden amaç eğitim içindir ve resmi yerlerde kullanmayınız.</p>
+<br><hr>
 <h1>OpenCV nedir?</h1>
 <br>
 OpenCV (Open Source Computer Vision Library), bilgisayar görüsü ve görüntü işleme uygulamaları için kullanılan ücretsiz bir kütüphanedir. Başlangıçta Intel tarafından geliştirilmiştir ve şu anda BSD lisansı altında açık kaynak olarak sunulmaktadır. OpenCV, birçok farklı platformda (Windows, Linux, macOS, Android vb.) ve programlama diliyle (C++, Python, Java, MATLAB vb.) kullanılabilen geniş kapsamlı bir kütüphanedir.
