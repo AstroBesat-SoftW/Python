@@ -1,4 +1,4 @@
-# Bu Demo versiyonudur, hata payı vardır ve geliştirilmeye açıktır.
+# Bu Orijinal versiyonu değil Demo versiyonudur, hata payı vardır ve geliştirilmeye açıktır. O yüzden amaç eğitim içindir ve resmi yerlerde kullanmayınız.
 
 import cv2
 import os
