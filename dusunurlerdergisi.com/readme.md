@@ -17,7 +17,10 @@ Dergide yayınladığım yazıların kaynak dosyları buradadır.
 </style>
 </head>
 <body>
+    <br>
+    <center>
 <div class="gif-container">
     <!-- Hareketli GIF görüntüsü -->
-    <img src="https://media.giphy.com/media/3o7TKG3SPlpIVyDRb6/giphy.gif" alt="Havalı GIF">
+    <img src="https://media1.tenor.com/m/U7H6oEsSKOEAAAAC/uzgun-surat-leanardo-di-caprio.gif" alt="Havalı GIF">
 </div>
+    </center>
