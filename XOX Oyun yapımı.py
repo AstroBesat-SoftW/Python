@@ -1,4 +1,4 @@
-#xox oyun yapalım
+#xox oyun yapalım terminalde
 
 
 theBoard2 = {'1': '','2': '','3': '',
