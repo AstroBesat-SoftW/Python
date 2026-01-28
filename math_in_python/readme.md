@@ -1,1 +1,1 @@
-hi math>
+matematik işlemleri (örnek)
