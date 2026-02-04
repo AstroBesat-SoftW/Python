@@ -1,1 +1,0 @@
-# ders 1 basit if else
