@@ -1,4 +1,4 @@
-# mod fonksiyon hali
+# faktoriyel fonksiyon hali
 
 a = int(input())
 
