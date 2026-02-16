@@ -10,4 +10,4 @@ def fak(x):
 
 print(fak(a))
 
-# fajtiruyel sonuc ekana döndürür
+# faktoriyel sonuc ekana döndürür
