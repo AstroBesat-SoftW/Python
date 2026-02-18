@@ -11,3 +11,4 @@ def fak(x):
 print(fak(a))
 
 # faktoriyel sonuc ekana döndürür
+# bunu anlamak için diğerbderdlerimize bakabilirsiniz
