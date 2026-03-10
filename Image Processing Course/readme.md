@@ -11,14 +11,13 @@
 Eğer tablo çizgileri olmadan sadece yan yana dizilsin istersen bu kodu kullanabilirsin:
 
 <p align="left">
-  <img src="gorsel1_linki.jpg" width="32%" />
-  <img src="gorsel2_linki.jpg" width="32%" /> 
-  <img src="gorsel3_linki.jpg" width="32%" />
+  <img width="626" width="32%" alt="image" src="https://github.com/user-attachments/assets/f728be3f-6e63-4812-af86-d3e6875ff715" />
+<img width="618" width="32%" alt="image" src="https://github.com/user-attachments/assets/0268c4c6-604f-4654-bf5a-806adc058681" />
+<img width="1021" width="32%" alt="image" src="https://github.com/user-attachments/assets/16c38e36-b802-4e48-a93c-1f2215d81a7e" />
+
 </p>
 
-<img width="626" height="779" alt="image" src="https://github.com/user-attachments/assets/f728be3f-6e63-4812-af86-d3e6875ff715" />
-<img width="618" height="719" alt="image" src="https://github.com/user-attachments/assets/0268c4c6-604f-4654-bf5a-806adc058681" />
-<img width="1021" height="791" alt="image" src="https://github.com/user-attachments/assets/16c38e36-b802-4e48-a93c-1f2215d81a7e" />
+
 <br>
 2- Spatial Image Restoration
 <br>
