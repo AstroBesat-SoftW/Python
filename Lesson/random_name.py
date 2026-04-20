@@ -1,5 +1,5 @@
 import random
-
+# random kullanımı
 isimler = ["isim_1", "isim_2", "isim_3", "isim_4", "isim_5", "isim_6", "isim_7"]
 
 random.shuffle(isimler)
