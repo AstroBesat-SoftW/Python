@@ -2,8 +2,7 @@
 
 Bu proje, yerel ağ (LAN) üzerinden iki farklı bilgisayarın birlikte oynamasına olanak tanıyan bir yapıya sahiptir. Oyuna başlamadan önce lütfen aşağıdaki adımları sırasıyla takip edin.
 
-<img width="2048" height="1879" alt="image" src="https://github.com/user-attachments/assets/96a7414f-4b9b-4b6c-95aa-2d600d65b22b" />
-
+<img width="1048" height="900" alt="image" src="https://github.com/user-attachments/assets/96a7414f-4b9b-4b6c-95aa-2d600d65b22b" />1
 
 ---
 
