@@ -4,3 +4,4 @@ For the video: https://www.youtube.com/@besatcngar8612
 
 -
 course - repo
+dersler - youtube bir kısmı yayınladım
