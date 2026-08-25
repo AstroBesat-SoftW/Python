@@ -41,7 +41,7 @@ Oyuna sonradan katılacak bilgisayarda:
 
 Sunucu bilgisayarın IP adresini bulmak için:
 
-1.  Sunucu bilgisayarda **CMD (Terminal)** ekranını açın.
+1.  Sunucu bilgisayarda **CMD (Terminal)** ekranını açın!
 2.  `ipconfig` yazıp Enter tuşuna basın.
 3.  Çıkan sonuçlarda **IPv4 Address** yazan yerdeki bilgiyi (Örn: `192.168.1.45`) not alın. 
 4.  Bu adresi, oyuna bağlanacak olan ikinci bilgisayara girmeniz gerekecektir.
