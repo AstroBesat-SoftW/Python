@@ -2,6 +2,6 @@
 
 Lütfen bunuda dosyaya dahil edin:
 
-yolov3_last.weights   <-- (indir) 
+yolov3_last.weights   <-- (indir and .name) 
 
 link:  https://drive.google.com/file/d/1zJUsTDvPsfG0lcncDs4-raMMeR4H0yXN/view?usp=sharing 
